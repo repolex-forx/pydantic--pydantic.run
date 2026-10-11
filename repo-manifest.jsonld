@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pydantic/pydantic.run/commit/3fa1680b1d34e0b24fcff697e6f65cc3978bb9ce",
       "git:hexsha": "3fa1680b1d34e0b24fcff697e6f65cc3978bb9ce",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T21:01:21.556320+00:00"
     }
   ]
 }
